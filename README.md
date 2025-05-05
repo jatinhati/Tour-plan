@@ -14,3 +14,24 @@
 - **Styling**: CSS
 - **Build Tools**: None specified
 
+
+## **Installation & Setup 🛠️**
+
+
+Prerequisites
+Node.js (v16+)
+Git
+Steps
+
+**Clone the repository**
+
+git clone https://github.com/jatinhati/](https://github.com/jatinhati/Tour-plan.git
+
+cd Tour-plan
+
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
